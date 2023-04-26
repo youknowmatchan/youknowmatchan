@@ -8,11 +8,16 @@
 <br>
 <br>
 
+
+
+
 Heyy! I'm Icexy, I'm from Thailand and very interested in listening to music and doing programming projects once in a while! I’m currently studying in Thailand, I'm still very 
 focused on studying at this point in time and I hope to code a little bit more! Nether 
 the less, The most important thing for me at this point is to have relaxing life! <3
 <br>
 <br>
+
+
 
 # Contact
 <br>
