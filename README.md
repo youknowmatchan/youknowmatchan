@@ -32,7 +32,4 @@ Although I may appear to not be very active, I will always read all the notifica
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <hr>
