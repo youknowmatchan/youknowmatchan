@@ -33,3 +33,5 @@ Although I may appear to not be very active, I will always read all the notifica
 <br>
 <br>
 <hr>
+
+![](https://media.discordapp.net/attachments/867971350411767838/1101502300222144562/1638245351899.jpg?width=652&height=651)
