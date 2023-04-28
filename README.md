@@ -19,7 +19,7 @@ the less, The most important thing for me at this point is to have relaxing life
 
 
 
-# Contact
+# Contact :snowflake:
 <br>
 <br>
 <img src="https://i.imgur.com/UOwDZuw.gif" align="right" height="208.5px">
