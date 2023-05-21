@@ -6,33 +6,22 @@
 
 # About Me! :coffee:
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-
-
-Heyy! I'm Icexy, I'm from Thailand and very interested in listening to music and doing programming projects once in a while! I’m currently studying in Thailand, I'm still very 
+<font size="4">Heyy! I'm Icexy, I'm from Thailand and very interested in listening to music and doing programming projects once in a while! I’m currently studying in Thailand, I'm still very 
 focused on studying at this point in time and I hope to code a little bit more! Nether 
-the less, The most important thing for me at this point is to have relaxing life! <3
-<br>
-<br>
-<br>
-<br>
-<br>
+the less, The most important thing for me at this point is to have relaxing life! <3</font>
 <br>
 
-
-
-# Contact :snowflake:
+# Contact
 <br>
 <br>
 <img src="https://i.imgur.com/UOwDZuw.gif" align="right" height="208.5px">
 <p align="center">Here are some of my social media <br>
-Although I may appear to not be very active, I will always read all the notification there!</p>
+Although I seem to not be active, I will read all the notification there!</p>
 <p align="center"><a href="https://twitter.com/youknowicexy"><img src="https://img.shields.io/badge/youknowicexy%20-%231DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.reddit.com/user/icexy_" ><img src="https://img.shields.io/badge/youknowicexy-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a></p>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
