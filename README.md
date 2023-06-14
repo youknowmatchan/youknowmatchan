@@ -3,6 +3,8 @@
 
 ✨ I'm a student currently studying in Thailand and I love to code and listen to music on my spare time! I love to learn new things and I often spent time reading book or looking at educational content.
 
+<hr/>
+
 <p align="center">
   <strong><a href="https://www.wintry.com">Website</a></strong> |
   <strong><a href="https://twitter.com/youknowicexy">Twitter</a></strong> |
