@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-✨ I'm a student currently studying in Thailand and I love to code and listen to music on my spare time! I love to learn new things and I often spent time reading book or looking at educational content.
+<h3>✨ I'm a student currently studying in Thailand and I love to code and listen to music on my spare time! I love to learn new things and I often spent time reading book or looking at educational content.</h3>
 <br/>
 <br/>
 <hr/>
