@@ -1,7 +1,8 @@
 <h1  align="center"> 👋 Hey there, I'm Icexy! </h1>
+<br/>
 <p  align="center"><img src="https://media.tenor.com/wuTstMILarIAAAAC/touhou-fumo.gif" width ="600" height="200" align="center"></p>
 <br/>
-<br/>
+
 
 <h3>✨ I'm a student currently studying in Thailand and I love to code and listen to music on my spare time! I love to learn new things and I often spent time reading book or looking at educational content.</h3>
 <br/>
