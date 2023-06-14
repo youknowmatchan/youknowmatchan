@@ -1,6 +1,6 @@
 <h1  align="center"> 👋 Hey there, I'm Icexy! </h1>
 <br/>
-<p  align="center"><img src="https://media.tenor.com/wuTstMILarIAAAAC/touhou-fumo.gif" width ="600" height="200" align="center"></p>
+<p  align="center"><img src="https://media.tenor.com/wuTstMILarIAAAAC/touhou-fumo.gif" width ="200" height="200" align="center"></p>
 <br/>
 
 
