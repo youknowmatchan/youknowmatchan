@@ -1,4 +1,4 @@
-<h2  align="center"> 👋 Hey there, I'm Icexy! </h2>
+<h1  align="center"> 👋 Hey there, I'm Icexy! </h1>
 <p  align="center"><img src="https://media.tenor.com/wuTstMILarIAAAAC/touhou-fumo.gif" width ="600" height="200" align="center"></p>
 
 ✨ I'm a student currently studying in Thailand and I love to code and listen to music on my spare time! I love to learn new things and I often spent time reading book or looking at educational content.
