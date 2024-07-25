@@ -4,7 +4,7 @@
 <br/>
 
 
-<h3>✨ I'm a student currently studying in NZ and I love to code and listen to music on my spare time! I love to learn new things and I often spent time reading book or looking at educational content. I'm also interested in many different mathematical and physics field, I'm facsinated by these things and I spent hours wandering on these topics!</h3>
+<h3>✨ I'm a student currently studying in NZ and I love to code and listen to music on my spare time! I love to learn new things and I often spent time reading book or looking at educational content. 💜 I'm also interested in many different mathematical and physics field, I'm facsinated by these things and I spent hours wandering on these topics!</h3>
 <br/>
 <br/>
 <hr/>
