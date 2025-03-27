@@ -1,23 +1,30 @@
-<div align="center">
-  
-  <img src="https://i.pinimg.com/736x/5c/f0/31/5cf03196f93995edea4ac7ee6615c9e9.jpg" height="699" width="400">
-  
-  <h2>🍵 Hey there, I'm Matchan!</h2>
-  
-  ✨ I'm a student currently studying in NZ, And here are something about myself:
-  
-  - 💻 I code once every blue moon...
-  - 🎵 Enjoy Electronic Music & Jazz
-  - 📖 Loves Reading Web Novel, Light Novel, and Manga
-  - 🔢 Interested in Physics and Mathematics
-  - 🚀 Learning Engineering
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/736x/5c/f0/31/5cf03196f93995edea4ac7ee6615c9e9.jpg" height="699" width="400">
+    </td>
+    <td>
+      <h2>🍵 Hey there, I'm Matchan!</h2>
+      <p>✨ I'm a student currently studying in NZ and I love to:</p>
+      <ul>
+        <li>💻 I code once every blue moon...</li>
+        <li>🎵 Enjoy Electronic Music & Jazz</li>
+        <li>📖 Love Reading Web Novels, Light Novels, and Manga</li>
+        <li>🔢 Interested in Physics and Mathematics</li>
+        <li>🚀 Learning Engineering</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,npm,react,svelte,tailwind,python,cpp,cs,arduino,git,matlab,latex)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,npm,react,svelte,tailwind,python,cpp,cs,arduino,git,matlab,latex" />
+  </a>
+</p>
 
 <hr/>
 
