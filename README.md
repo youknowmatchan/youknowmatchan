@@ -28,7 +28,7 @@
 
 <hr/>
 
-<p align="center">
+<p align="center" style="font-size: 24px;">
   <strong><a href="https://www.wintry.me">Website</a></strong> |
   <strong><a href="https://twitter.com/youknowmatchan">Twitter</a></strong> |
   <strong><a href="https://www.instagram.com/youknowmatchan/">Instagram</a></strong> |
