@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://i.pinimg.com/736x/5c/f0/31/5cf03196f93995edea4ac7ee6615c9e9.jpg" height="699" width="400">
+      <img src="https://i.pinimg.com/736x/5c/f0/31/5cf03196f93995edea4ac7ee6615c9e9.jpg" height="699" width="400" alt="Image">
     </td>
     <td align="left">
       <h2>🍵 Hey there, I'm Matchan!</h2>
