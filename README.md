@@ -22,16 +22,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,npm,react,svelte,tailwind,python,cpp,cs,arduino,git,matlab,latex" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,npm,react,svelte,tailwind,python,cpp,cs,arduino,matlab,latex" />
   </a>
 </p>
 
 <hr/>
 
-<p align="center" style="font-size: 24px;">
-  <strong><a href="https://www.wintry.me">Website</a></strong> |
-  <strong><a href="https://twitter.com/youknowmatchan">Twitter</a></strong> |
-  <strong><a href="https://www.instagram.com/youknowmatchan/">Instagram</a></strong> |
-  <strong><a href="https://www.reddit.com/user/icexy_">Reddit</a></strong> |
-  <strong><a href="https://www.twitch.tv/youknowmatchan">Twitch</a></strong>
+<p align="center">
+  <font size="5">
+    <strong><a href="https://www.wintry.me">Website</a></strong> |
+    <strong><a href="https://twitter.com/youknowmatchan">Twitter</a></strong> |
+    <strong><a href="https://www.instagram.com/youknowmatchan/">Instagram</a></strong> |
+    <strong><a href="https://www.reddit.com/user/icexy_">Reddit</a></strong> |
+    <strong><a href="https://www.twitch.tv/youknowmatchan">Twitch</a></strong>
+  </font>
 </p>
