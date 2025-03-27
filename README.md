@@ -1,4 +1,4 @@
-<h1  align="center"> 👋 Hey there, I'm Matchan! </h1>
+<h2 align="center"> 👋 Hey there, I'm Matchan! </h2>
 <br/>
 <p  align="center"><img src="https://media.tenor.com/wuTstMILarIAAAAC/touhou-fumo.gif" width ="600" height="300" align="center"></p>
 <br/>
