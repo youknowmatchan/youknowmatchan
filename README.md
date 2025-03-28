@@ -5,7 +5,7 @@
     </td>
     <td align="left">
       <h2>🍵 Hey there, I'm Matchan!</h2>
-      <p>✨ I'm a student currently studying in NZ and I love to:</p>
+      <p>✨ I'm a student currently studying in NZ and,</p>
       <ul>
         <li>💻 I code once every blue moon...</li>
         <li>🎵 Enjoy Electronic Music & Jazz</li>
